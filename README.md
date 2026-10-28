@@ -4,6 +4,15 @@ A curated, source-linked list of everything public about **Gemini 4 Carbon**, Go
 
 > **Status (2026-10-28):** Carbon is **not generally available**. It is rolling out first to a subset of cyber defenders, then to more trusted partners through the [Fairwind Program](https://deepmind.google/fairwind-program/). Google gives no date for developers, businesses or consumers.
 
+## Related Projects
+
+- [awesome-gemini-4-pro](https://github.com/Anil-matcha/awesome-gemini-4-pro) — evidence-led Gemini 4 Pro use cases, prompts, evaluations and release tracking; the sibling Gemini frontier-model list.
+- [awesome-gpt-6-astra](https://github.com/Anil-matcha/awesome-gpt-6-astra) — evidence-backed use cases, evaluations and safety notes for OpenAI GPT-6 Astra, for cross-model comparison.
+- [awesome-claude-fable-5-1](https://github.com/Anil-matcha/awesome-claude-fable-5-1) — Claude Fable 5.1 launch evidence, migration notes and prompt patterns.
+- [awesome-claude-fable-5](https://github.com/Anil-matcha/awesome-claude-fable-5) — predecessor Claude frontier-model use-case archive.
+- [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) — open-source image, video and audio generation studio.
+- [Muapi](https://muapi.ai) — one API for 500+ image, video and audio generation models. Carbon is a language model and is not offered there.
+
 ## Contents
 - [At a glance](#at-a-glance)
 - [Benchmarks](#benchmarks)
@@ -14,7 +23,6 @@ A curated, source-linked list of everything public about **Gemini 4 Carbon**, Go
 - [Press coverage](#press-coverage)
 - [Benchmarks explained](#benchmarks-explained)
 - [Gemini 4 Argon (the predecessor)](#gemini-4-argon-the-predecessor)
-- [Related projects](#related-projects)
 - [Contributing](#contributing)
 
 ## At a glance
@@ -79,10 +87,6 @@ Same multi-layered stack as Argon: model training, real-time misuse defenses, pr
 
 ## Gemini 4 Argon (the predecessor)
 Announced September 30, 2026 to a vetted set of defenders, then publicly available October 13 on Google AI Pro/Ultra and the paid API as `gemini-4-argon`. 1,048,576-token context, text/image/video/audio/PDF input. Introductory $2 / $10 per 1M tokens until November 30, then $4 / $20. See [Google's Argon post](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/).
-
-## Related projects
-- [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI): open-source image, video and audio generation studio.
-- [Muapi](https://muapi.ai): one API for 500+ image, video and audio generation models. (Carbon is a language model and is not offered there.)
 
 ## Contributing
 PRs welcome: add reputable sources, independent benchmark runs (label them clearly as third-party) and availability updates. Every claim needs a link. Pre-announcement leaks and unverified rumors are not accepted.
