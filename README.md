@@ -2,6 +2,9 @@
 
 A curated, source-linked list of everything public about **Gemini 4 Carbon**, Google DeepMind's next frontier model, announced **October 28, 2026**. Every number below comes from Google's announcement or a linked report. Nothing here is unofficial benchmark speculation.
 
+<p align="center"><a href="https://youtu.be/gbmlKXzJFLM"><img src="https://i.ytimg.com/vi/gbmlKXzJFLM/maxresdefault.jpg" width="720" alt="Gemini 4 Carbon: Benchmarks, Pricing and Release Date"></a></p>
+<p align="center"><a href="https://youtu.be/gbmlKXzJFLM"><b>▶ Watch: Gemini 4 Carbon, Benchmarks, Pricing &amp; Release Date (Can't Use It Yet)</b></a></p>
+
 > **Status (2026-10-28):** Carbon is **not generally available**. It is rolling out first to a subset of cyber defenders, then to more trusted partners through the [Fairwind Program](https://deepmind.google/fairwind-program/). Google gives no date for developers, businesses or consumers.
 
 ## Related Projects
