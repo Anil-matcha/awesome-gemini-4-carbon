@@ -9,12 +9,13 @@ A curated, source-linked list of everything public about **Gemini 4 Carbon**, Go
 
 ## Related Projects
 
+- [Gemini-4-Carbon-API](https://github.com/Anil-matcha/Gemini-4-Carbon-API) — runnable curl, Python and JavaScript examples, `reasoning_effort` guide and Carbon vs Argon comparison for calling Carbon through the Muapi API.
 - [awesome-gemini-4-pro](https://github.com/Anil-matcha/awesome-gemini-4-pro) — evidence-led Gemini 4 Pro use cases, prompts, evaluations and release tracking; the sibling Gemini frontier-model list.
 - [awesome-gpt-6-astra](https://github.com/Anil-matcha/awesome-gpt-6-astra) — evidence-backed use cases, evaluations and safety notes for OpenAI GPT-6 Astra, for cross-model comparison.
 - [awesome-claude-fable-5-1](https://github.com/Anil-matcha/awesome-claude-fable-5-1) — Claude Fable 5.1 launch evidence, migration notes and prompt patterns.
 - [awesome-claude-fable-5](https://github.com/Anil-matcha/awesome-claude-fable-5) — predecessor Claude frontier-model use-case archive.
 - [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) — open-source image, video and audio generation studio.
-- [Muapi](https://muapi.ai) — one API for 500+ image, video and audio generation models. Carbon is a language model and is not offered there.
+- [Muapi](https://muapi.ai) — one API for 500+ image, video, audio and language models, including [Gemini 4 Carbon](https://muapi.ai/playground/gemini-4-carbon) ([Gemini 4 API page](https://muapi.ai/gemini-4)).
 
 ## Contents
 - [At a glance](#at-a-glance)
